@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MainTabBar</key>
+	<array>
+		<dict>
+			<key>highlightedImage</key>
+			<string>home-sel.png</string>
+			<key>image</key>
+			<string>home.png</string>
+			<key>highlightedTitleColor</key>
+			<string>RGBA(110, 77, 53, 1.0f)</string>
+			<key>titleColor</key>
+			<string>RGBA(141, 107, 80, 1.0f)</string>
+			<key>title</key>
+			<string>钱包</string>
+		</dict>
+		<dict>
+			<key>highlightedImage</key>
+			<string>home-sel.png</string>
+			<key>image</key>
+			<string>home.png</string>
+			<key>highlightedTitleColor</key>
+			<string>RGBA(110, 77, 53, 1.0f)</string>
+			<key>titleColor</key>
+			<string>RGBA(141, 107, 80, 1.0f)</string>
+			<key>title</key>
+			<string>订单</string>
+		</dict>
+		<dict>
+			<key>highlightedImage</key>
+			<string>home-sel.png</string>
+			<key>image</key>
+			<string>home.png</string>
+			<key>highlightedTitleColor</key>
+			<string>RGBA(110, 77, 53, 1.0f)</string>
+			<key>titleColor</key>
+			<string>RGBA(141, 107, 80, 1.0f)</string>
+			<key>title</key>
+			<string>视频</string>
+		</dict>
+		<dict>
+			<key>highlightedImage</key>
+			<string>home-sel.png</string>
+			<key>image</key>
+			<string>home.png</string>
+			<key>highlightedTitleColor</key>
+			<string>RGBA(110, 77, 53, 1.0f)</string>
+			<key>titleColor</key>
+			<string>RGBA(141, 107, 80, 1.0f)</string>
+			<key>title</key>
+			<string>我的</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+//
+//  JSAppHeader.pch
+//  JSApp
+//
+//  Created by DT on 2019/3/12.
+//  Copyright © 2019年 dayukeji. All rights reserved.
+//
+
+#ifndef JSAppHeader_pch
+#define JSAppHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#ifdef __OBJC__
+#import "Contant.h"
+#import "UIViewExt.h"
+#import "MyUtility.h"
+#import "UIImageView+WebCache.h"
+#import "ConfigMangerData.h"
+#endif
+
+#endif /* JSAppHeader_pch */
